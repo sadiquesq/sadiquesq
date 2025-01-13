@@ -11,7 +11,8 @@
 
 - 📫 How to reach me **sadiqueoffical@gmail.com**
 
-  ![Leetcode Stats](https://leetcard.jacoblin.cool/sadiquesanu?theme=dark)
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadiquesq&layout=compact&theme=gruvbox" alt="sadiquesq"/></p>
+
 
 
 <h3 align="left">Connect with me:</h3>
@@ -36,6 +37,10 @@
 </a><a href="https://www.docker.com/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
 </a></p>
+
+
+  ![Leetcode Stats](https://leetcard.jacoblin.cool/sadiquesanu?theme=dark)
+
 <!---
 sadiquesq/sadiquesq is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
